@@ -22,13 +22,14 @@
           v-if="$q.screen.gt.xs">
           <q-img src="/easytel-logo.png"
             spinner-color="primary"
-            style="height: 50px; width: 120px" />
-          <!-- <q-toolbar-title
+            style="height: 75px; width: 260px"
+             />
+          <q-toolbar-title
             shrink
             class="text-bold text-grey-7"
           >
-            IZING
-          </q-toolbar-title> -->
+            Central de atendimentos
+          </q-toolbar-title>
         </q-btn>
 
         <q-space />
